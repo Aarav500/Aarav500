@@ -1,22 +1,24 @@
 # Aarav Shah
 
-**CS @ UC Riverside | AI/ML • Computational Neuroscience • Quant Finance • Astrophysics**
+**CS @ UC Riverside | AI/ML • Reinforcement Learning • Quant Finance • Computational Neuroscience**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarav%20Shah-blue?logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarav%20Shah-blue?logo=linkedin)](https://www.linkedin.com/in/aarav-shah-9b878329a/)
 [![Email](https://img.shields.io/badge/Email-ashah264%40ucr.edu-red?logo=gmail)](mailto:ashah264@ucr.edu)
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Freshman CS student @ UC Riverside (GPA: 3.97) — IB Diploma, Indus International School Pune
+- 🎓 CS Student @ UC Riverside (GPA: 3.97) — IB Diploma, Indus International School Pune
 - 🔬 Undergraduate Researcher — **Hyperspectral Imaging** with Prof. Saragadam (tensor decomposition: SVD, CP, Tucker vs. neural implicit modeling, 98.7% reconstruction accuracy, targeting IEEE CVPR)
 - 📡 Co-author on **exoplanet habitability** research — Bayesian hierarchical modeling + Random Forest on 4,510 NASA Exoplanet Archive planets
 - 💊 Co-author on **AI in Drug Discovery & Materials Science** — Springer Nature submission (41-page review, mathematical frameworks + GNNs + topological data analysis)
 - 📐 Co-author on **Mathematics & Physics in the 21st Century** — AI-augmented discovery, Langlands program, TQFT, ECC
 - 📦 Published IEEE-format paper on **ARIMA Inventory Forecasting** — RMSE 15.05, Walmart benchmark validation
+- 🤖 Author — **Forecast-Seeded Non-Stationary RL (FS-NRLF)**: 16–21% profit gain, 54.8% stock-out reduction over PPO on M5 benchmark (3,049 products, 5.4M records); under double-blind review
+- 🏭 Author — **Modern Digital Supply Chain Architecture** white paper: integrated AI forecasting (ARIMA/LSTM/Transformer), IoT sensing, blockchain traceability, RPA automation, and SAP S4HANA ERP
 - 🏆 Silver Medal — 5th International STEM Olympiad (Top 5 globally, Frankfurt); Top 200 Under-19 Chess (AICF); 2× District Champion
-- 🎯 Targeting FAANG SWE/ML roles and top-tier MS/PhD programs
+- 🎯 Targeting FAANG SWE/MLE internships and Quant/Research Engineer roles
 
 ---
 
@@ -38,11 +40,13 @@
 
 | Paper | Venue | Status |
 |-------|-------|--------|
+| *Forecasts as Priors over Initial States: Sample-Efficient RL for Predictable Non-Stationarity* (FS-NRLF) — 16–21% profit gain, 54.8% stock-out reduction over PPO on M5 (3,049 products, 5.4M records) | Under Double-Blind Review | Submitted |
+| *Modern Digital Supply Chain Architecture* — Integrated AI forecasting (ARIMA/LSTM/Transformer ensemble), IoT sensing, blockchain traceability, RPA automation, SAP S4HANA ERP | White Paper | Published |
 | *Mathematical Frameworks and AI Applications in Drug Discovery and Materials Science* | Springer Nature | Under Review |
 | *Mathematics and Physics in the Early 21st Century: Foundations, Collaboration, and AI-Augmented Discovery* | Springer Nature AI | Under Review |
 | *Integrating ARIMA, Quantum Decision Models, and RL for Omnichannel Retail* | Springer Nature | Under Review |
 | *Multi-Dimensional ARIMA Performance Analysis for Inventory Forecasting* | IEEE | Under Review |
-| *Quantifying Detection Bias and Recovering Habitable Zone Occurrence Rates* (3-Model Framework) | Independent / Conference-targeted | In Preparation |
+| *Quantifying Detection Bias and Recovering Habitable Zone Occurrence Rates* (3-Model Framework) | Conference-targeted | In Preparation |
 
 ---
 
